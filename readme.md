@@ -86,4 +86,4 @@ Replace the environment variable values with your actual PostgreSQL connection d
 Feel free to fork this project and submit pull requests for any enhancements.
 
 ## License
-This README provides a comprehensive overview of the project, including setup instructions, deployment guidance for TrueNAS Scale, customization options, and some troubleshooting tips. You may want to adjust some details based on your specific implementation or add more information as needed.# internet-speed-local-test
+This README provides a comprehensive overview of the project, including setup instructions, deployment guidance for TrueNAS Scale, customization options, and some troubleshooting tips.
